@@ -73,7 +73,7 @@ Understanding which classes are most popular and profitable is essential for opt
 
 Teachers are central to student experience and business success. This analysis highlights their contributions.
 
-* **Top Teachers by Average Profit/Loss per Class:**
+* **Top 10 Teachers by Average Profit/Loss per Class:**
     * **Alessandra (EN | IT):** Highest average profit/loss per class (~ $47,911)
     * **Monica - 晨芳雪 (EN):** (~ $17,615/class)
     * **Gina (EN | 中文):** (~ $16,516/class)
@@ -82,7 +82,7 @@ Teachers are central to student experience and business success. This analysis h
 
     ![Top Teachers by Average Profit/Loss per Class](images/top_teachers_avg_profit_by_overall_tenure.png)
 
-* **Top Teachers by Average Paying Students per Class:**
+* **Top 10 Teachers by Average Paying Students per Class:**
     * **Theresa 桃子老师 (EN | 中文):** (~8.47 students/class) leads in attracting students per class.
     * **Alessandra (EN | IT):** (~7.12 students/class)
     * **Monica - 晨芳雪 (EN):** (~7.16 students/class)
@@ -166,3 +166,21 @@ Based on this comprehensive analysis, here are key strategies to drive further g
     * **Niche Expansion:** Capitalize on the high per-class profitability observed at external venues like `Chaoyang Park 朝阳公园` and `Hotel Eclat Beijing | 北京怡亨酒店`. Consider offering more specialized workshops or premium, exclusive classes at these locations.
 5.  **Continuous Data-Driven Decision Making:**
     * Establish a routine for reviewing these key performance metrics and trends monthly. This agile approach will allow for quick adjustments to schedules, marketing, and offerings, ensuring the business remains responsive and optimized.
+
+---
+
+## 8. Professional Study Pricing
+
+This comprehensive data analysis study, providing actionable insights for optimizing Taozi Tree's class performance and profitability, is priced based on the **value and expected outcomes** it can deliver. For a professional data analyst or scientist based in Spain, such a study represents significant strategic value, far beyond simple hourly effort.
+
+The fee for this type of in-depth analysis and actionable recommendations, delivered with clear visualizations and a structured report, would typically be a **fixed project fee**.
+
+**Estimated Price Range:** **€3,000 - €6,000 (Euros)**
+
+This price reflects:
+* The extensive data cleaning, feature engineering, and multi-faceted analysis performed.
+* The strategic insights derived from identifying high-performing and underperforming areas.
+* The actionable recommendations for optimizing scheduling, class portfolios, teacher deployment, and venue utilization.
+* The potential for a substantial return on investment for Taozi Tree through increased profitability and operational efficiency.
+
+---
