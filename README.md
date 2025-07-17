@@ -62,8 +62,9 @@ Understanding which classes are most popular and profitable is essential for opt
     ![Top 10 Least Profitable / Loss-Making Classes](images/top_10_least_profitable_classes.png)
 
 * **Top 10 Most Popular Classes by Average Paying Students:**
-    * `LUNCHTIME POWER FLOW | 中午力量流` also leads in average students per class.
-    * Other strong performers include `BEGINNER'S VINYASA | 初级流瑜伽` and `ELEMENTAL FLOW | 自然元素流`.
+    * BEGINNER'S VINYASA | 初级流瑜伽 leads in average students per class.
+    * LUNCHTIME POWER FLOW | 中午力量流 excels in total students and total classes offered.
+    * Other strong performers by average students include ELEMENTAL FLOW | 自然元素流 and HATHA HIPS AND SHOULDERS | 哈他流.
 
     ![Top 10 Classes by Average Paying Students](images/top_10_classes_by_avg_students.png)
 
