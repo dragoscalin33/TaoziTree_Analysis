@@ -75,18 +75,10 @@ Understanding which classes are most popular and profitable is essential for opt
 Teachers are central to student experience and business success. This analysis highlights their contributions.
 
 * **Top 10 Teachers by Average Profit/Loss per Class:**
-    * **Alessandra (EN | IT):** Highest average profit/loss per class (~ $47,911)
-    * **Monica - 晨芳雪 (EN):** (~ $17,615/class)
-    * **Gina (EN | 中文):** (~ $16,516/class)
-    * **Theresa 桃子老师 (EN | 中文):** (~ $14,949/class)
-    * **Marie (EN | DE):** (~ $6,633/class)
 
     ![Top Teachers by Average Profit/Loss per Class](images/top_teachers_avg_profit_by_overall_tenure.png)
 
 * **Top 10 Teachers by Average Paying Students per Class:**
-    * **Theresa 桃子老师 (EN | 中文):** (~8.47 students/class) leads in attracting students per class.
-    * **Alessandra (EN | IT):** (~7.12 students/class)
-    * **Monica - 晨芳雪 (EN):** (~7.16 students/class)
 
     ![Top Teachers by Average Paying Students per Class](images/top_teachers_avg_students_by_overall_tenure.png)
 
