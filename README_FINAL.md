@@ -178,7 +178,7 @@ The day of the week and the exact time of a class significantly influence its po
 
     * **High Revenue:** Weekend lunch and evening slots are the most revenue-generating.
 
-    ![Total Revenue by Day and Time Category](imagenes1/heatmap_total_revenue_day_time.png)
+    ![Total Revenue by Day and Time Category](imagenes1/total_revenue_by_day_and_time_category.png)
 
 ---
 
@@ -188,11 +188,11 @@ Understanding performance across different locations is vital for resource alloc
 
 * **Total Paying Students by Venue:** `SANLITUN 三里屯` is the primary venue by student volume, followed by `JINSHANG 金尚·源`.
 
-    ![Total Paying Students by Venue](imagenes1/venue_total_students.png)
+    ![Total Paying Students by Venue](imagenes1/venue_performance_by_total_paying_students)
 
 * **Total Revenue by Venue:** `SANLITUN 三里屯` contributes the most to total revenue. Notably, smaller/niche venues like `SANLITUN 三里屯 (RM. 306) - TAOZI T`, `Chaoyang Park 朝阳公园`, and `Hotel Eclat Beijing | 北京怡亨酒店` show exceptionally high revenue potential per class.
 
-    ![Total Revenue by Venue](imagenes1/venue_total_revenue.png)
+    ![Total Revenue by Venue](imagenes1/venue_performance_by_total_revenue.png)
 
 ---
 
