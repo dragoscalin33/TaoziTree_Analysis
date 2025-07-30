@@ -161,7 +161,7 @@ The day of the week and the exact time of a class significantly influence its po
 
 * **Total Revenue by Day of Week:** Weekends and Tuesdays are generally the days that generate the most revenue.
 
-    ![Total Revenue by Day of Week](imagenes1/total_revenue_by_day.png)
+    ![Total Revenue by Day of Week](imagenes1/total_revenue_by_day_of_the_week.png)
 
 * **Average Paying Students by Time Category:** Evening (18:00-23:59) and Lunchtime (12:00-14:59) slots attract the most students.
 
