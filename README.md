@@ -22,7 +22,7 @@ Taozi Tree demonstrates a strong financial foundation and operational scale.
 
 * **Total Revenue (June 2024 - July 2025):** $610,686.24
 * **Total Profit/Loss (June 2024 - July 2025):** $5,327,595.00
-    * **Important Clarification on Profit/Loss:** It is critical to note that the sum of 'Profit/Loss Per Class' ($5.3M) is significantly higher than the 'Total Revenue' ($0.61M). This indicates that the 'Profit/Loss Per Class' metric in the source data likely represents a **'Contribution Margin' or 'Gross Profit per Class'**, rather than the final net profit. This value would be calculated *before* deducting larger operational overheads (e.g., rent, utilities, general marketing) which are accounted for at a higher aggregate level. Owners should verify the precise definition and calculation methodology of this metric with their accounting team to ensure accurate financial interpretation.
+    * **Important Clarification on Profit/Loss:** It is critical to note that the sum of 'Profit/Loss Per Class' ($5.3M) is significantly higher than the 'Total Revenue' ($0.61M). The values in this column exhibit major inconsistencies, with entries as high as 100,000 or 40,000 — clearly unrealistic figures that do not reflect actual financial or operational outcomes. These anomalies suggest data entry errors or format mismatches and should be treated with caution during analysis.
 * **Average Paying Students per Class (Overall):** 5.35 students
 * **Average Total Students per Class (Overall):** 6.85 students
 * **Average Revenue per Paid Student (Overall):** $81.32
