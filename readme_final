@@ -1,0 +1,247 @@
+# Análisis Estratégico de Crecimiento para Taozi Tree: Una Hoja de Ruta Basada en Datos
+
+## Resumen Ejecutivo
+
+Este informe presenta un análisis estratégico del desempeño de las clases de Taozi Tree desde junio de 2024 hasta julio de 2025. Utiliza datos operativos detallados para identificar los factores clave de rendimiento, descubrir ineficiencias críticas y destacar oportunidades significativas para un crecimiento sostenible. La conclusión central es que **invertir en la consistencia y calidad de los profesores es primordial para aumentar la participación de los estudiantes y maximizar los ingresos.** Al optimizar la oferta de clases, dominar la programación y aprovechar un liderazgo pedagógico experimentado, Taozi Tree puede lograr un crecimiento sustancial de estudiantes y retornos financieros, consolidando su posición en el mercado frente a la competencia emergente.
+
+---
+
+### Cómo Navegar Este Repositorio
+
+Este repositorio contiene el análisis completo del rendimiento de las clases de Taozi Tree.
+* **`TaoziTree_Analysis_Notebook.ipynb`**: Este es el notebook de Google Colab que contiene todo el código Python para la carga de datos, limpieza, análisis y generación de gráficos.
+* **`Classes (as of 3 July 2025) - For Dragos.csv`**: El archivo de datos original.
+* **`cleaned_classes_data.csv`**: El conjunto de datos limpio y preprocesado utilizado para el análisis.
+* **`imagenes1/`**: Este directorio contiene todos los archivos de visualización generados (formato `.png`) a los que se hace referencia en este informe `README.md`.
+
+---
+
+## 1. Desempeño General del Negocio
+
+Taozi Tree demuestra una sólida situación financiera general, lo que indica una fuerte demanda del mercado por sus servicios.
+
+* **Ingresos Totales (Junio 2024 - Julio 2025):** $610,686.24 RMB
+* **Promedio de Estudiantes de Pago por Clase:** 5.35 estudiantes
+* **Promedio Total de Estudiantes por Clase:** 6.85 estudiantes
+* **Ingreso Promedio por Estudiante de Pago:** $81.32 RMB
+
+**Conclusión Clave:** El negocio tiene una base de ingresos fuerte y atrae a un número consistente de estudiantes por clase, lo que indica una demanda saludable por sus servicios.
+
+---
+
+## 2. Tendencias de Desempeño Temporal
+
+El análisis de datos mensuales revela fluctuaciones que indican patrones estacionales o el impacto de decisiones estratégicas.
+
+* **Tendencia Mensual de Ingresos:** El siguiente gráfico ilustra el rendimiento financiero mensual. Se observan caídas notables en periodos como Julio-Septiembre de 2024 y Enero de 2025, mientras que se aprecia un crecimiento fuerte y una alta rentabilidad de Febrero a Julio de 2025.
+
+    ![Monthly Revenue Trend](imagenes1/monthly_revenue_trend.png)
+
+* **Tendencia Mensual de Estudiantes de Pago:** Este gráfico muestra cómo fluctúa la asistencia de estudiantes mensualmente, reflejando generalmente las tendencias financieras.
+
+    ![Monthly Paying Students Trend](imagenes1/monthly_paying_students_trend.png)
+
+---
+
+## 3. Análisis Profundo del Desempeño de las Clases
+
+Comprender qué clases son más populares es esencial para optimizar la oferta.
+
+* **Las 10 Clases Más Populares por Total de Estudiantes de Pago:**
+    * `LUNCHTIME POWER FLOW | 中午力量流`
+    * `ASHTANGA PRIMARY SERIES | 阿斯汤伽瑜伽`
+    * `BODY FLEXIBILITY | 身体柔韧性 (哈他流）`
+    * `BEGINNER'S VINYASA | 初级流瑜伽`
+    * `VINYASA L1/2 | 流瑜伽1/2级`
+    * `YOGA FOR ATHLETES | 运动伸展瑜伽`
+    * `ELEMENTAL FLOW | 自然元素流`
+    * `VINYASA LEVEL 2 | 瑜伽流 2级`
+    * `HATHA HIPS AND SHOULDERS | 哈他流`
+    * `HATHA VINYASA | 哈他流`
+
+* **Las 10 Clases Más Populares por Promedio de Estudiantes de Pago:**
+    * `BEGINNER'S VINYASA | 初级流瑜伽` (lidera en promedio de estudiantes por clase)
+    * `HATHA HIPS AND SHOULDERS | 哈他流`
+    * `ELEMENTAL FLOW | 自然元素流`
+    * `HATHA VINYASA | 哈他流`
+    * `LUNCHTIME POWER FLOW | 中午力量流`
+    * `YOGA FOR ATHLETES | 运动伸展瑜伽`
+    * `MAMA+BABY YOGA-FITNESS | 妈妈和宝宝瑜伽`
+    * `PRENATAL YOGA | 产前瑜伽`
+    * `LIL’ PEACHES KIDS 儿童 YOGA AGE 4-6岁`
+    * `LIL’ PEACHES KIDS 儿童 YOGA AGE 5-6岁`
+
+    ![Top 10 Classes by Average Paying Students](imagenes1/top_10_classes_by_average_paying_students.png)
+
+* **Las 10 Clases que Generan Más Ingresos:**
+    * `LUNCHTIME POWER FLOW | 中午力量流`
+    * `MAMA+BABY YOGA-FITNESS | 妈妈和宝宝瑜伽`
+    * `ASHTANGA PRIMARY SERIES | 阿斯汤伽瑜伽`
+    * `PRENATAL YOGA | 产前瑜伽`
+    * `BODY FLEXIBILITY | 身体柔韧性 (哈他流）`
+    * `HATHA VINYASA | 哈他流`
+    * `ELEMENTAL FLOW | 自然元素流`
+    * `HATHA HIPS AND SHOULDERS | 哈他流`
+    * `BEGINNERS ASHTANGA | 初学者阿斯汤伽`
+    * `BEGINNER'S VINYASA | 初级流瑜伽`
+
+    ![Top 10 Classes by Total Revenue Generated](imagenes1/top_10_classes_by_total_revenue_generated.png)
+
+* **Las 10 Clases con Menor Total de Estudiantes de Pago:**
+    * `VINYASA L1/2 - Seeds | 流瑜伽 L1/2 种子`
+    * `VINYASA L1/2 | 流瑜伽1/2级`
+    * `RESTORATIVE + MEDITATION | 恢复与冥想`
+    * `YIN YANG FLOW | 阴阳流`
+    * `ANIMAL FLOW | 动物流`
+    * `YOGA FOR ATHLETES | 运动伸展瑜伽`
+    * `VINYASA LEVEL 2 | 瑜伽流 2级`
+    * `MYOFASCIA RELEASE | 筋膜释放`
+    * `TRADITIONAL HATHA | 传统哈他瑜伽`
+    * `LIL’ PEACHES KIDS 儿童 YOGA AGE 3-4岁`
+
+    ![Bottom 10 Classes by Average Paying Students](imagenes1/bottom_10_classes_by_average_paying_students.png)
+
+---
+
+## 4. Análisis del Desempeño Docente
+
+Los profesores son activos clave. Este análisis evalúa su contribución individual a la asistencia a clase y a la generación de ingresos, ayudando a identificar el talento principal y las áreas de desarrollo.
+
+* **Los 10 Mejores Profesores por Promedio de Estudiantes de Pago por Clase:**
+    1.  **Shandre:** ~11.50 estudiantes/clase
+    2.  **Jacqueline:** ~9.30 estudiantes/clase
+    3.  **Wang Lei:** ~9.00 estudiantes/clase
+    4.  **Sunny (EN):** ~9.00 estudiantes/clase
+    5.  **Theresa 桃子老师 (EN | 中文):** ~8.47 estudiantes/clase
+    6.  **Ana 西雅 (EN | RU):** ~8.36 estudiantes/clase
+    7.  **Guest Teacher:** ~8.33 estudiantes/clase
+    8.  **Gina (EN | 中文):** ~8.04 estudiantes/clase
+    9.  **Monica - 晨芳雪 (EN):** ~7.16 estudiantes/clase
+    10. **Alessandra (EN | IT):** ~7.12 estudiantes/clase
+
+    ![Top Teachers by Average Paying Students per Class](imagenes1/top_teachers_avg_students_by_overall_tenure.png)
+
+* **Los 10 Mejores Profesores por Total de Ingresos Generados:**
+    1.  **Theresa 桃子老师 (EN | 中文):** ~¥52,596/clase
+    2.  **Marie (EN | DE):** ~¥65,938/clase
+    3.  **叔叔 (EN):** ~¥139,628/clase
+    4.  **Monica - 晨芳雪 (EN):** ~¥40,779/clase
+    5.  **Yinai (EN | 中文):** ~¥27,407/clase
+    6.  **Gina (EN | 中文):** ~¥22,880/clase
+    7.  **Ross (EN):** ~¥13,626/clase
+    8.  **Anastasiia (EN | RU):** ~¥11,485/clase
+    9.  **Sian (EN):** ~¥9,663/clase
+    10. **Alessandra (EN | IT):** ~¥9,357/clase
+
+    ![Top Teachers by Total Revenue Generated](imagenes1/top_teachers_total_revenue_by_overall_tenure.png)
+
+---
+
+## 5. El Poder de la Antigüedad Docente en la Clase
+
+Este apartado pone a prueba la hipótesis de que el rendimiento de un profesor (asistencia de estudiantes y generación de ingresos) en una clase específica mejora con su antigüedad impartiendo esa clase.
+
+* **El Crecimiento de Estudiantes con la Antigüedad:** El siguiente gráfico muestra que el promedio de estudiantes de pago por clase generalmente aumenta a medida que la antigüedad de un profesor en esa clase específica crece. Los estudiantes desarrollan lealtad y confianza con los instructores consistentes.
+
+    ![Average Paying Students by Teacher-Class Tenure](imagenes1/average_paying_students_per_class_by_teacher_class_tenure.png)
+
+* **Generación de Ingresos con la Antigüedad:** De manera similar, los ingresos totales generados por clase tienden a mejorar significativamente con el aumento de la antigüedad del profesor en la clase.
+
+    ![Total Revenue by Teacher-Class Tenure](imagenes1/total_revenue_by_tenure.png)
+
+---
+
+## 6. Optimización de Horarios y Sedes
+
+Este apartado investiga cómo el día de la semana y las franjas horarias específicas influyen en la asistencia a clase y en los ingresos, identificando los periodos de programación óptimos.
+
+* **Promedio de Estudiantes de Pago por Día de la Semana:** Los fines de semana (Sábado, Domingo) tienen consistentemente la mayor asistencia promedio.
+
+    ![Average Paying Students by Day of Week](imagenes1/average_paying_students_per_class_by_day_of_the_week.png)
+
+* **Ingresos Totales por Día de la Semana:** Los fines de semana y los Martes son generalmente los días que generan mayores ingresos.
+
+    ![Total Revenue by Day of Week](imagenes1/total_revenue_by_day.png)
+
+* **Promedio de Estudiantes de Pago por Categoría Horaria:** Las franjas de Noche (18:00-23:59) y Mediodía (12:00-14:59) atraen la mayor cantidad de estudiantes.
+
+    ![Average Paying Students by Time Category](imagenes1/average_paying_students_per_class_by_time_category.png)
+
+* **Ingresos Totales por Categoría Horaria:** Las franjas de Noche y Mediodía son también las que más ingresos generan.
+
+    ![Total Revenue by Time Category](imagenes1/total_revenue_by_time_category.png)
+
+* **Puntos Estratégicos de Desempeño (Mapas de Calor por Día y Hora):** Los mapas de calor proporcionan una vista granular:
+    * **Alta Asistencia:** Las franjas de mediodía y noche de los fines de semana son momentos clave. Las clases de noche y mediodía entre semana también funcionan bien.
+
+    ![Average Paying Students by Day and Time Category](imagenes1/average_paying_students_by_day_and_time_category.png)
+
+    * **Altos Ingresos:** Los mediodías y las noches de los fines de semana son los que generan más ingresos.
+
+    ![Total Revenue by Day and Time Category](imagenes1/heatmap_total_revenue_day_time.png)
+
+---
+
+## 7. Análisis del Desempeño por Sede
+
+Comprender el rendimiento de cada sede es vital para la asignación estratégica de recursos.
+
+* **Total de Estudiantes de Pago por Sede:** `SANLITUN 三里屯` es la sede principal por volumen de estudiantes, seguida de `JINSHANG 金尚·源`.
+
+    ![Total Paying Students by Venue](imagenes1/venue_total_students.png)
+
+* **Ingresos Totales por Sede:** `SANLITUN 三里屯` contribuye con la mayor parte de los ingresos totales. Cabe destacar que sedes más pequeñas o de nicho como `SANLITUN 三里屯 (RM. 306) - TAOZI T`, `Chaoyang Park 朝阳公园` y `Hotel Eclat Beijing | 北京怡亨酒店` muestran un potencial de ingresos muy alto por clase.
+
+    ![Total Revenue by Venue](imagenes1/venue_total_revenue.png)
+
+---
+
+## Conclusiones Finales y Recomendaciones Accionables para Taozi Tree
+
+Basándonos en este análisis exhaustivo, aquí presentamos estrategias clave para impulsar el crecimiento y la rentabilidad de Taozi Tree:
+
+1.  **Gestión Estratégica del Portafolio de Clases:**
+    * **Potenciar las Ganadoras:** Aumentar la frecuencia y capacidad de clases de alto rendimiento (ej. `LUNCHTIME POWER FLOW`, `BEGINNER'S VINYASA`).
+    * **Reevaluar las de Baja Asistencia:** Realizar revisiones profundas de las clases con baja asistencia para entender sus causas (contenido, profesor, marketing) y explorar ajustes o reemplazos.
+2.  **Optimización de Horarios para el Máximo Impacto:**
+    * **Priorizar Horas Pico:** Programar las clases de mayor demanda y con los profesores de élite en las franjas horarias de **fin de semana (mediodía y noche)** y **entre semana (mediodía y noche)** para maximizar la asistencia y los ingresos.
+    * **Innovar en Horas Valle:** Para las mañanas y tardes entre semana, explorar clases de nicho, precios especiales o usos alternativos (talleres, clases privadas) que optimicen la utilización del espacio.
+3.  **Invertir en la Consistencia y Desarrollo Docente:**
+    * **Fomentar la Antigüedad:** Promover activamente la continuidad de los profesores en clases específicas, ya que esto se traduce directamente en una mayor lealtad de los estudiantes y asistencia.
+    * **Desarrollar el Talento:** Reconocer y recompensar a los profesores de alto rendimiento. Proporcionar apoyo y planes de desarrollo a los profesores con clases de baja asistencia para mejorar su compromiso y resultados.
+4.  **Uso Estratégico de las Sedes:**
+    * **Foco en el Núcleo:** Continuar aprovechando `SANLITUN 三里屯` como el centro principal.
+    * **Expansión de Nichos:** Capitalizar el alto potencial de ingresos observado en sedes externas (ej. `Chaoyang Park`, `Hotel Eclat`) ofreciendo más clases especializadas o premium.
+5.  **Adopción de una Toma de Decisiones Basada en Datos:**
+    * Establecer una rutina mensual para revisar estas métricas y tendencias. Este enfoque ágil permitirá ajustes rápidos en horarios, marketing y ofertas, asegurando una optimización continua.
+
+---
+
+## 8. Precios del Estudio Profesional
+
+Este estudio de análisis de datos integral, que proporciona información procesable para optimizar el rendimiento y la rentabilidad de las clases de Taozi Tree, se valora en función del **valor y los resultados esperados** que puede ofrecer. Para un profesional de datos o científico de datos con sede en España, un estudio de este tipo representa un valor estratégico significativo, mucho más allá del simple esfuerzo por horas.
+
+La tarifa para este tipo de análisis en profundidad y recomendaciones accionables, entregado con visualizaciones claras y un informe estructurado, sería típicamente una **tarifa de proyecto fija**.
+
+**Rango de Precios Estimado:** **€3,000 - €6,000 (Euros)**
+
+Este precio refleja:
+* La extensa limpieza de datos, ingeniería de características y análisis multifacético realizado.
+* Los conocimientos estratégicos derivados de la identificación de áreas de alto y bajo rendimiento.
+* Las recomendaciones accionables para optimizar la programación, los portafolios de clases, la implementación de profesores y la utilización de sedes.
+* El potencial de un retorno sustancial de la inversión para Taozi Tree a través de una mayor rentabilidad y eficiencia operativa.
+
+---
+
+## 9. Valor de Retorno Estimado de Este Estudio
+
+La inversión en este estudio de análisis de datos puede generar un retorno significativo al optimizar el rendimiento de las clases de Taozi Tree y la eficiencia operativa.
+
+Al implementar estratégicamente las recomendaciones accionables proporcionadas, Taozi Tree podría lograr un **aumento conservador estimado en la rentabilidad anual (margen de contribución) que oscila entre ¥30,000 y ¥100,000+ RMB.**
+
+Este potencial aumento de ingresos se impulsa principalmente por:
+* Una mejora modesta en el promedio de asistencia a clase (ej. aumentando el promedio de estudiantes de pago por clase entre 0.5 y 1.0 estudiante).
+* Reducción de las pérdidas de las clases de bajo rendimiento, llevándolas al punto de equilibrio o a generar ganancias.
+* Maximización de las franjas horarias de alta rentabilidad y el uso eficaz de los profesores y sedes de alto rendimiento.
+
+Este retorno proyectado destaca un Retorno de Inversión (ROI) sustancial, convirtiendo el costo del estudio en una inversión estratégica para el crecimiento continuo y la salud financiera de Taozi Tree.
