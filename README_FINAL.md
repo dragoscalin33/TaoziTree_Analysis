@@ -47,20 +47,6 @@ Analyzing monthly data reveals fluctuations that indicate seasonal patterns or t
 
 Understanding which classes are most popular is essential for optimizing offerings.
 
-* **Top 10 Most Popular Classes by Average Paying Students:**
-    * `BEGINNER'S VINYASA | 初级流瑜伽` (leads in average students per class)
-    * `HATHA HIPS AND SHOULDERS | 哈他流`
-    * `ELEMENTAL FLOW | 自然元素流`
-    * `HATHA VINYASA | 哈他流`
-    * `LUNCHTIME POWER FLOW | 中午力量流`
-    * `YOGA FOR ATHLETES | 运动伸展瑜伽`
-    * `MAMA+BABY YOGA-FITNESS | 妈妈和宝宝瑜伽`
-    * `PRENATAL YOGA | 产前瑜伽`
-    * `LIL’ PEACHES KIDS 儿童 YOGA AGE 4-6岁`
-    * `LIL’ PEACHES KIDS 儿童 YOGA AGE 5-6岁`
-
-    ![Top 10 Classes by Average Paying Students](imagenes1/top_10_classes_by_average_paying_students.png)
-
 * **Top 10 Revenue-Generating Classes:**
     * `LUNCHTIME POWER FLOW | 中午力量流`
     * `MAMA+BABY YOGA-FITNESS | 妈妈和宝宝瑜伽`
