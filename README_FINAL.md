@@ -266,6 +266,22 @@ This price reflects:
 * The actionable recommendations for optimizing scheduling, class portfolios, teacher deployment, and venue utilization.
 * The potential for a substantial return on investment for Taozi Tree through increased profitability and operational efficiency.
 
+**Actual Cost to Taozi Tree**
+
+Considering a fair rate of 300 RMB per class, and the fact that I taught 10 classes in July and will teach 8 classes in August, the total value of my teaching contribution is:
+
+(10 + 8) × 300 RMB = 5,400 RMB
+
+Taozi has paid me a total of 8,000 RMB across July and August (4,000/month). Therefore, the remaining 2,600 RMB is the actual cost of this data study.
+
+⸻
+
+A Meaningful Gift
+
+Rather than charging professional rates, I’ve chosen to offer this study as a gesture of goodwill and dedication to Taozi Tree. I’ve counted only my July and August payments — and even then, only partially — as compensation for the many hours of technical work, analysis, and insight generation.
+
+This project is not just an “extra,” but a strategic investment in Taozi’s long-term development, offered with love, care, and the sincere hope that it supports meaningful growth, stability, and vision alignment in the months to come.
+
 ---
 
 ## 9. Estimated Return Value of This Study
