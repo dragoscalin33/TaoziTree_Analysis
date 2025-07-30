@@ -191,9 +191,8 @@ Based on this comprehensive analysis, here are key strategies to drive further g
     * **Niche Expansion:** Capitalize on the high revenue potential observed at external venues like `Chaoyang Park 朝阳公园` and `Hotel Eclat Beijing | 北京怡亨酒店` by offering more specialized or premium classes there.
     * **Embrace Data-Driven Decision Making:** Establish a routine for reviewing these key performance metrics and trends monthly. This agile approach will allow for quick adjustments, ensuring continuous optimization and responsiveness to market dynamics.
 
----
 
-# The Missing Key: Why Pedagogical Leadership Is Essential for Sustainable Growth in a Yoga School
+## The Missing Key: Why Pedagogical Leadership Is Essential for Sustainable Growth in a Yoga School
 
 This analysis of one year of class data highlights a critical insight:  
 > **Teacher-class continuity drives revenue, retention, and growth.**
@@ -201,31 +200,28 @@ This analysis of one year of class data highlights a critical insight:
 Yet in many yoga schools today, a strategic gap remains unaddressed:  
 **the absence of a consistent, experienced educational leader.**
 
----
 
-## 📊 Data Insight: Tenure Drives Performance
+## Data Insight: Tenure Drives Performance
 
 The analysis reveals a direct relationship between teacher tenure and class success:
 
-- 🧘‍♀️ **Classes led by teachers with 7–12 months of experience generate up to 20% more revenue** compared to those led by newer instructors.
-- 🔄 The majority of current classes are led by teachers with under 3 months of tenure.
-- ⚠️ This turnover and lack of structured development lead to inconsistent student experience and prevent classes from reaching their full potential.
+- **Classes led by teachers with 7–12 months of experience generate up to 20% more revenue** compared to those led by newer instructors.
+- The majority of current classes are led by teachers with under 3 months of tenure.
+- This turnover and lack of structured development lead to inconsistent student experience and prevent classes from reaching their full potential.
 
----
 
-## 🧭 Strategic Gap: No School Without a Master
+## Strategic Gap: No School Without a Master
 
 Yoga is not just a fitness trend — it's a path, a lineage, a living tradition.  
-And like any tradition, it needs a **guide**, a **Maestro** — someone with wisdom, experience, and vision.
+And like any tradition, it needs a **guide**, a **Master** — someone with wisdom, experience, and vision.
 
 ### The absence of a seasoned pedagogical leader results in:
 - Fragmented class quality.
 - Lack of accountability and feedback for junior teachers.
 - Missed opportunities for student transformation and school reputation growth.
 
----
 
-## 🛠️ What a Pedagogical Director Can Build
+## What a Pedagogical Director Can Build
 
 A dedicated Director of Training and Teaching Quality can:
 - **Design structured training pathways** for teachers, based on real data and lived practice.
@@ -235,27 +231,24 @@ A dedicated Director of Training and Teaching Quality can:
 
 This is not an HR role. It's the heart of the school.
 
----
 
-## 🚀 From Surviving to Thriving
+## From Surviving to Thriving
 
 Many yoga schools fall into the trap of short-term thinking: filling schedules, saving costs, rotating teachers.  
 But what truly builds legacy is **consistency in excellence**.
 
-### A Yoga Master brings:
+## A Yoga Master brings:
 
 - **Stability**: Lower turnover, better results over time.
 - **Reputation**: Consistent high-quality classes build trust in the brand.
 - **Growth**: Students stay longer, refer more, and pay for quality.
 - **Leadership**: Not just someone who teaches, but someone who inspires teachers.
 
----
 
-## 🧘 The Yoga School of the Future
+## The Yoga School of the Future
 
 The future of yoga education isn't more teachers — it's **better teachers**.  
 It's not just more classes — it's **deeper classes**.  
-And behind that future is always a Master.
 
 ---
 
