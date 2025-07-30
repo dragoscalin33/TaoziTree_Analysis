@@ -195,7 +195,7 @@ Based on this comprehensive analysis, here are key strategies to drive further g
 ## 🍑 Why Pedagogical Leadership Is Essential for Sustainable Growth in a Yoga School
 
 This analysis of one year of class data highlights a critical insight:  
-> **Teacher-class continuity drives revenue, retention, and growth.**
+**Teacher-class continuity drives revenue, retention, and growth.**
 
 Yet in many yoga schools today, a strategic gap remains unaddressed:  
 **the absence of a consistent, experienced educational leader.**
