@@ -272,7 +272,7 @@ Considering a fair rate of 300 RMB per class, and the fact that I taught 10 clas
 
 (10 + 8) × 300 RMB = 5,400 RMB
 
-Taozi has paid me a total of 8,000 RMB across July and August (4,000/month). Therefore, the remaining 2,600 RMB is the actual cost of this data study.
+Taozi will pay me a total of 8,000 RMB across July and August (4,000/month). Therefore, the remaining 2,600 RMB is the actual cost of this data study.
 
 ⸻
 
