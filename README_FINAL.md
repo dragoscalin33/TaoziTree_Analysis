@@ -173,7 +173,7 @@ Understanding performance across different locations is vital for resource alloc
 
 ---
 
-## Final Conclusions and Actionable Recommendations for Taozi Tree
+## Actionable Recommendations for Taozi Tree
 
 Based on this comprehensive analysis, here are key strategies to drive further growth and profitability:
 
@@ -192,7 +192,7 @@ Based on this comprehensive analysis, here are key strategies to drive further g
     * **Embrace Data-Driven Decision Making:** Establish a routine for reviewing these key performance metrics and trends monthly. This agile approach will allow for quick adjustments, ensuring continuous optimization and responsiveness to market dynamics.
 
 
-## The Missing Key: Why Pedagogical Leadership Is Essential for Sustainable Growth in a Yoga School
+## 🍑 Why Pedagogical Leadership Is Essential for Sustainable Growth in a Yoga School
 
 This analysis of one year of class data highlights a critical insight:  
 > **Teacher-class continuity drives revenue, retention, and growth.**
