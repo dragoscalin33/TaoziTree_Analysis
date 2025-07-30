@@ -1,4 +1,4 @@
-# 🍑 Strategic Growth Analysis for Taozi Tree: A Data-Driven Roadmap
+# Strategic Growth Analysis for Taozi Tree: A Data-Driven Roadmap
 
 ## Executive Summary
 
@@ -21,9 +21,9 @@ This repository contains the full analysis of Taozi Tree's class performance.
 Taozi Tree demonstrates a strong financial foundation and operational scale.
 
 * **Total Revenue (June 2024 - July 2025):** ¥610,686.24 RMB
-* **Promedio de Estudiantes de Pago por Clase:** 5.35 students
-* **Promedio Total de Estudiantes por Clase:** 6.85 students
-* **Ingreso Promedio por Estudiante de Pago:** ¥81.32 RMB
+* **Average Paying Students per Class:** 5.35 students
+* **Average Total Students per Class:** 6.85 students
+* **Average Revenue per Paid Student:** ¥81.32 RMB
 
 **Key Takeaway:** The business has a strong foundation, but a deeper dive reveals inefficiencies that, if addressed, can unlock significant untapped potential for growth and protect against market pressures.
 
@@ -47,7 +47,7 @@ Analyzing monthly data reveals fluctuations that indicate seasonal patterns or t
 
 Understanding which classes are most popular is essential for optimizing offerings.
 
-* **Top 10 Most Populares por Total de Estudiantes de Pago:**
+* **Top 10 Most Popular Classes by Total Paying Students:**
     * `LUNCHTIME POWER FLOW | 中午力量流`
     * `ASHTANGA PRIMARY SERIES | 阿斯汤伽瑜伽`
     * `BODY FLEXIBILITY | 身体柔韧性 (哈他流）`
@@ -59,8 +59,8 @@ Understanding which classes are most popular is essential for optimizing offerin
     * `HATHA HIPS AND SHOULDERS | 哈他流`
     * `HATHA VINYASA | 哈他流`
 
-* **Top 10 Most Populares por Promedio de Estudiantes de Pago:**
-    * `BEGINNER'S VINYASA | 初级流瑜伽` (lidera en promedio de estudiantes por clase)
+* **Top 10 Most Popular Classes by Average Paying Students:**
+    * `BEGINNER'S VINYASA | 初级流瑜伽` (leads in average students per class)
     * `HATHA HIPS AND SHOULDERS | 哈他流`
     * `ELEMENTAL FLOW | 自然元素流`
     * `HATHA VINYASA | 哈他流`
@@ -73,7 +73,7 @@ Understanding which classes are most popular is essential for optimizing offerin
 
     ![Top 10 Classes by Average Paying Students](imagenes1/top_10_classes_by_average_paying_students.png)
 
-* **Top 10 Clases que Generan Más Ingresos:**
+* **Top 10 Revenue-Generating Classes:**
     * `LUNCHTIME POWER FLOW | 中午力量流`
     * `MAMA+BABY YOGA-FITNESS | 妈妈和宝宝瑜伽`
     * `ASHTANGA PRIMARY SERIES | 阿斯汤伽瑜伽`
@@ -87,7 +87,7 @@ Understanding which classes are most popular is essential for optimizing offerin
 
     ![Top 10 Classes by Total Revenue Generated](imagenes1/top_10_classes_by_total_revenue_generated.png)
 
-* **Top 10 Clases con Menor Total de Estudiantes de Pago:**
+* **Top 10 Classes with Lowest Total Paying Students:**
     * `VINYASA L1/2 - Seeds | 流瑜伽 L1/2 种子`
     * `VINYASA L1/2 | 流瑜伽1/2级`
     * `RESTORATIVE + MEDITATION | 恢复与冥想`
@@ -122,16 +122,16 @@ Teachers are central to student experience and business success. This analysis h
     ![Top Teachers by Average Paying Students per Class](imagenes1/top_teachers_avg_students_by_overall_tenure.png)
 
 * **Top 10 Teachers by Total Revenue Generated:**
-    1.  **Theresa 桃子老师 (EN | 中文):** ~¥52,596/clase
-    2.  **Marie (EN | DE):** ~¥65,938/clase
-    3.  **叔叔 (EN):** ~¥139,628/clase
-    4.  **Monica - 晨芳雪 (EN):** ~¥40,779/clase
-    5.  **Yinai (EN | 中文):** ~¥27,407/clase
-    6.  **Gina (EN | 中文):** ~¥22,880/clase
-    7.  **Ross (EN):** ~¥13,626/clase
-    8.  **Anastasiia (EN | RU):** ~¥11,485/clase
-    9.  **Sian (EN):** ~¥9,663/clase
-    10. **Alessandra (EN | IT):** ~¥9,357/clase
+    1.  **Theresa 桃子老师 (EN | 中文):** ~¥52,596/class
+    2.  **Marie (EN | DE):** ~¥65,938/class
+    3.  **叔叔 (EN):** ~¥139,628/class
+    4.  **Monica - 晨芳雪 (EN):** ~¥40,779/class
+    5.  **Yinai (EN | 中文):** ~¥27,407/class
+    6.  **Gina (EN | 中文):** ~¥22,880/class
+    7.  **Ross (EN):** ~¥13,626/class
+    8.  **Anastasiia (EN | RU):** ~¥11,485/class
+    9.  **Sian (EN):** ~¥9,663/class
+    10. **Alessandra (EN | IT):** ~¥9,357/class
 
     ![Top Teachers by Total Revenue Generated](imagenes1/top_teachers_total_revenue_by_overall_tenure.png)
 
@@ -196,7 +196,7 @@ Understanding performance across different locations is vital for resource alloc
 
 ---
 
-## Final Conclusiones y Recomendaciones Accionables para Taozi Tree
+## Final Conclusions and Actionable Recommendations for Taozi Tree
 
 Based on this comprehensive analysis, here are key strategies to drive further growth and profitability:
 
@@ -220,7 +220,7 @@ Based on this comprehensive analysis, here are key strategies to drive further g
 
 This study not only identifies key areas for growth but also highlights the critical need for experienced pedagogical leadership—a role perfectly aligned with your expertise.
 
-* **Bridging the Gap:** The data shows a direct correlation between teacher tenure/experience and class performance (attendance and revenue generation). The current model, where newer teachers may rotate frequently or lack structured support, directly contributes to observed inefficiencies and lower student engagement in many classes. Your **20 years of experience as a Yoga Maestro** directly addresses this critical gap, offering a depth of pedagogical wisdom that data alone cannot provide.
+* **Bridging the Gap:** The data shows a direct correlation between teacher tenure/experience and class performance (attendance and revenue generation). The current model, where newer teachers may rotate frequently or lack structured support, directly contributes to observed inefficiencies and lower student engagement in many classes. Your **20 years of expertise as a Yoga Maestro** directly addresses this critical gap, offering a depth of pedagogical wisdom that data alone cannot provide.
 * **Driving Quantifiable Results:** As a "Director de Formación y Calidad Docente," you would implement the solutions the data calls for:
     * **Structured Training:** Elevating teaching standards across the entire team.
     * **Performance Monitoring:** Using data to provide targeted, actionable feedback and evaluate teacher growth.
