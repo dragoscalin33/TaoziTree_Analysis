@@ -1,4 +1,4 @@
-# Strategic Growth Analysis for Taozi Tree: A Data-Driven Roadmap
+# 🍑 Strategic Growth Analysis for Taozi Tree: A Data-Driven Roadmap
 
 ## Executive Summary
 
