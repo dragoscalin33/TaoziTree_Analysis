@@ -188,7 +188,7 @@ Understanding performance across different locations is vital for resource alloc
 
 * **Total Paying Students by Venue:** `SANLITUN 三里屯` is the primary venue by student volume, followed by `JINSHANG 金尚·源`.
 
-    ![Total Paying Students by Venue](imagenes1/venue_performance_by_total_paying_students)
+    ![Total Paying Students by Venue](imagenes1/venue_performance_by_total_paying_students.png)
 
 * **Total Revenue by Venue:** `SANLITUN 三里屯` contributes the most to total revenue. Notably, smaller/niche venues like `SANLITUN 三里屯 (RM. 306) - TAOZI T`, `Chaoyang Park 朝阳公园`, and `Hotel Eclat Beijing | 北京怡亨酒店` show exceptionally high revenue potential per class.
 
