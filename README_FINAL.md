@@ -47,18 +47,6 @@ Analyzing monthly data reveals fluctuations that indicate seasonal patterns or t
 
 Understanding which classes are most popular is essential for optimizing offerings.
 
-* **Top 10 Most Popular Classes by Total Paying Students:**
-    * `LUNCHTIME POWER FLOW | 中午力量流`
-    * `ASHTANGA PRIMARY SERIES | 阿斯汤伽瑜伽`
-    * `BODY FLEXIBILITY | 身体柔韧性 (哈他流）`
-    * `BEGINNER'S VINYASA | 初级流瑜伽`
-    * `VINYASA L1/2 | 流瑜伽1/2级`
-    * `YOGA FOR ATHLETES | 运动伸展瑜伽`
-    * `ELEMENTAL FLOW | 自然元素流`
-    * `VINYASA LEVEL 2 | 瑜伽流 2级`
-    * `HATHA HIPS AND SHOULDERS | 哈他流`
-    * `HATHA VINYASA | 哈他流`
-
 * **Top 10 Most Popular Classes by Average Paying Students:**
     * `BEGINNER'S VINYASA | 初级流瑜伽` (leads in average students per class)
     * `HATHA HIPS AND SHOULDERS | 哈他流`
