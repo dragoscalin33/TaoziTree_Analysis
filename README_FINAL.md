@@ -119,7 +119,7 @@ Teachers are central to student experience and business success. This analysis h
     9.  **Monica - 晨芳雪 (EN):** ~7.16 students/class
     10. **Alessandra (EN | IT):** ~7.12 students/class
 
-    ![Top Teachers by Average Paying Students per Class](imagenes1/top_teachers_avg_students_by_overall_tenure.png)
+    ![Top Teachers by Average Paying Students per Class](imagenes1/top_10_teachers_by_average_paying_students.png)
 
 * **Top 10 Teachers by Total Revenue Generated:**
     1.  **Theresa 桃子老师 (EN | 中文):** ~¥52,596/class
@@ -133,7 +133,7 @@ Teachers are central to student experience and business success. This analysis h
     9.  **Sian (EN):** ~¥9,663/class
     10. **Alessandra (EN | IT):** ~¥9,357/class
 
-    ![Top Teachers by Total Revenue Generated](imagenes1/top_teachers_total_revenue_by_overall_tenure.png)
+    ![Top Teachers by Total Revenue Generated](imagenes1/top_10_teachers_by_total_revenue_generated.png)
 
 ---
 
