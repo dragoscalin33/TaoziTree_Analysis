@@ -254,7 +254,7 @@ It's not just more classes — it's **deeper classes**.
 
 ## 8. Professional Study Pricing
 
-This comprehensive data analysis study, providing actionable insights for optimizing Taozi Tree's class performance and profitability, is priced based on the **value and expected outcomes** it can deliver. For a professional data analyst or scientist based in Spain, such a study represents significant strategic value, far beyond simple hourly effort.
+This comprehensive data analysis study, providing actionable insights for optimizing Taozi Tree's class performance and profitability, is priced based on the **value and expected outcomes** it can deliver.
 
 The fee for this type of in-depth analysis and actionable recommendations, delivered with clear visualizations and a structured report, would typically be a **fixed project fee**.
 
