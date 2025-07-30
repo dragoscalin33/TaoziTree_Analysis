@@ -9,7 +9,7 @@ This report provides a comprehensive analysis of Taozi Tree's class data from Ju
 ### How to Navigate This Repository
 
 This repository contains the full analysis of Taozi Tree's class performance.
-* **`TaoziTree_Analysis_Notebook.ipynb`**: This is the Google Colab notebook containing all the Python code for data loading, cleaning, analysis, and plot generation.
+* **`Taozi.ipynb`**: This is the Google Colab notebook containing all the Python code for data loading, cleaning, analysis, and plot generation.
 * **`Classes (as of 3 July 2025) - For Dragos.csv`**: The original raw data file.
 * **`cleaned_classes_data.csv`**: The cleaned and preprocessed dataset used for analysis.
 * **`images/`**: This directory contains all the generated visualization files (`.png` format) referenced throughout this `README.md` report.
