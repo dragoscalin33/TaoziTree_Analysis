@@ -274,9 +274,8 @@ Considering a fair rate of 300 RMB per class, and the fact that I taught 10 clas
 
 Taozi will pay me a total of 8,000 RMB across July and August (4,000/month). Therefore, the remaining 2,600 RMB is the actual cost of this data study.
 
-⸻
 
-A Meaningful Gift
+**A Meaningful Gift**
 
 Rather than charging professional rates, I’ve chosen to offer this study as a gesture of goodwill and dedication to Taozi Tree. I’ve counted only my July and August payments — and even then, only partially — as compensation for the many hours of technical work, analysis, and insight generation.
 
